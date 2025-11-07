@@ -31,13 +31,13 @@ function App() {
           {/* <Route path='/' element={<h1>This is Home Component</h1>}/>
           <Route path='/about' element={<h1>This is About Component</h1>}/>
           <Route path='/contact' element={<h1>This is Contact Component</h1>}/> */}
-          <Route path='/' element={<Main/>}>
-          <Route path='/home' element={<Home/>}/>
-          <Route path='/about' element={<About/>}/>
-          <Route path='/product' element={<Product/>}/>
-          <Route path='/product/:productID' element={<SingleProduct/>}/>
-          </Route>
-        </Routes>
+        //   <Route path='/' element={<Main/>}>
+        //   <Route path='/home' element={<Home/>}/>
+        //   <Route path='/about' element={<About/>}/>
+        //   <Route path='/product' element={<Product/>}/>
+        //   <Route path='/product/:productID' element={<SingleProduct/>}/>
+        //   </Route>
+        // </Routes>
         </HashRouter> */}
         {/* <h1>Welcome to React Application</h1>  */}
         {/* <h2 style={{'backgroundColor':'green'}}>Hello World</h2> */}
